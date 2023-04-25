@@ -18,5 +18,6 @@ iv) Use the pagination links at the bottom of the page to navigate between pages
 # Credits
 The library management system was created by krishna
 
-#Live link of project
+# Live link of project
+https://devrev-round-2-lms.vercel.app/
 
